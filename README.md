@@ -1,16 +1,34 @@
-## Hi there 👋
+# Anderson Duran
 
-<!--
-**anderson-isw/anderson-isw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 Frontend Developer
 
-Here are some ideas to get you started:
+```text
+Software developer specializing in modern, high-performance web applications, with a strong focus on user-centered design. Masters cutting-edge technologies and industry best practices.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e6fff?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/andersonduran-dev/)
+[![portfolio](https://img.shields.io/badge/-Portfolio-00c497?style=flat&logo=linkedin&logoColor=black)](https://anderson-isw.vercel.app)
+
+```text
+🛠️ Tech Stack ──┐
+                |
+                ├── HTML
+                │   
+                ├── CSS
+                │   ├── Tailwind CSS
+                │   ├── Bootstrap
+                │   └── SCSS
+                │   
+                ├── JavaScript
+                │   ├── Vue.js
+                │   ├── Astro
+                │   └── TypeScript
+                │   
+                ├── Node
+                │   └── Nest.js
+                |
+                ├── DataBase
+                │   └── PostgreSQL
+                │   
+                └── C++
+```
